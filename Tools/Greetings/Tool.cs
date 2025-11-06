@@ -5,7 +5,7 @@ namespace OpalDemoTool.Tools.Greetings;
 
 public class GreetingsTool
 {
-    [OpalTool(name: "Greeting")]
+    [OpalTool(name: "Graham Greeting")]
     [Description("Greets a person")]
     public object Greet(GreetingsParameters inputVars)
     {
